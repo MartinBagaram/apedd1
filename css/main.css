@@ -22,14 +22,14 @@ header {
 	margin-right:5%;
 }
 #content {
-	width: 24%;
+	width: 90%;
 	float: left;
 	padding: 5px 15px;
 	
 }
 
 #middle {
-	width: 50%; /* Account for margins + border values */
+	width: 90%; /* Account for margins + border values */
 	float: left;
 	padding: 5px 15px;
 	margin: 0px 5px 5px 5px;
